@@ -8,33 +8,28 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br /> I am a final year student pursuing an Integrated MSc (IMSc)
-            in Maths and Computing at BIT Mesra.
+            Hi everyone, I am <span className="purple">Shreyas K Poojary</span> from <span className="purple">Karnataka, India</span>.<br />
+            I have completed a Bachelor of Engineering (B.E) in Computer Science and Engineering.<br />
+            Additionally, I am currently working as a software developer at Hexmos and have previously worked as an intern at Techshreshta, and Slides 365.<br />
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, there are other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Gaming
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Watching Anime
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Reading Fiction and Non-fiction Books
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "YOLO!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">SHREYAS</footer>
         </blockquote>
       </Card.Body>
     </Card>

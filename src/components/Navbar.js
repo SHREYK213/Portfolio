@@ -96,7 +96,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="lol"
+                href="https://www.cakeresume.com/me/shreyas-dd990e/portfolios?ref=dashboard_navs_portfolios"
                 target="_blank"
                 rel="noreferrer"
               >

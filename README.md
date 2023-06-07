@@ -1,7 +1,9 @@
 # Portfolio
 
 This is a portfolio website built using React.
-It showcases various sections such as Home, About, Projects, and Blog (currently under development).
+It showcases various sections such as Home, About, Projects, and Blog .
+
+![Screenshot from 2023-06-07 23-33-00](https://github.com/SHREYK213/Portfolio/assets/98221778/fb4884dc-7592-4975-84c5-118d2f04c502)
 
 The live site can be accessed at [https://shreyas-portfolio.onrender.com](https://shreyas-portfolio.onrender.com).
 
@@ -25,11 +27,15 @@ The Home section welcomes visitors to the website and provides a brief introduct
 ### About
 The About section provides detailed information about the owner's background, skills, education, and work experience. It gives visitors a deeper understanding of the owner's qualifications and expertise.
 
+![Screenshot from 2023-06-07 23-08-22](https://github.com/SHREYK213/Portfolio/assets/98221778/085e9cda-0d5f-4377-9315-9530198d1528)
+
 ### Projects
 The Projects section showcases various projects completed by the owner. Each project typically includes a project title, description, technologies used, and possibly some screenshots or links to the project repositories or live demos.
 
+![Screenshot from 2023-06-07 23-08-36](https://github.com/SHREYK213/Portfolio/assets/98221778/1d495c25-ee0b-4766-89f3-f32763556e3d)
+
 ### Blog (Under Development)
-The Blog section, although currently under development, will feature articles or blog posts written by the owner. It will serve as a platform to share knowledge, insights, and experiences with the audience.
+This is a simple blog that tells of different blogs and projects I have worked on.
 
 ## Installation
 To run the portfolio website locally on your machine, follow these steps:
